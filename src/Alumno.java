@@ -14,6 +14,10 @@ public class Alumno {
 		
 	}
 
+	public Alumno() {
+		
+	}
+
 	@Override
 	public String toString() {
 		return "Alumno [nombre=" + nombre + ", apellido=" + apellido + ", dni=" + dni + "]";
