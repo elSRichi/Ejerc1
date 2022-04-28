@@ -9,6 +9,10 @@ public class Alumno {
 		this.apellido = apellido;
 		this.dni = dni;
 	}
+	
+	public Alumno() {
+		
+	}
 
 	@Override
 	public String toString() {
