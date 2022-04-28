@@ -6,6 +6,10 @@ public class ClasePrincipal {
 		System.out.println("Listado de alumnos 1º DAW");
 		
 		System.out.println("Alumno 1: ");
+		
+		Alumno alumn=new Alumno("Ricardo","Hernan","0123555C");
+		
+		System.out.println(alumn);
 	}
 
 }
